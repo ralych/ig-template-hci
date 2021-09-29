@@ -1,0 +1,29 @@
+
+..#segment-footer > .container {
+	background-color: #0050a0;
+}
+
+#segment-navbar > .container {
+	background-color: #0050a0;
+}
+
+#segment-footer > .container {
+	background-color: #0050a0;
+}
+
+.navbar {
+	background-color: #0050a0;
+}
+#hl7-nav {
+  line-height: 50px;
+  float: left;
+  margin-top: 4px;
+  color: #808080;
+}
+#hl7-nav a {
+  color: inherit;
+}
+#hl7-logo {
+  float: left;
+  margin-left: 6px;
+}
