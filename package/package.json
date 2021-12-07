@@ -1,10 +1,10 @@
 {
-  "name": "ch.hin.ig.template",
+  "name": "ch.hci.ig.template",
   "version": "0.1.0",
   "type": "fhir.template",
   "license": "CC0-1.0",
-  "author": "Health Info Net AG",
-  "description": "FHIR IG Template",
+  "author": "HCI Solutions AG",
+  "description": "HCI IG Template",
   "canonical": "http://fhir.ch/ig/template",
   "base": "fhir.base.template",
   "dependencies": {
