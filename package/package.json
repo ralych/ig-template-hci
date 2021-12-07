@@ -5,7 +5,7 @@
   "license": "CC0-1.0",
   "author": "HCI Solutions AG",
   "description": "HCI IG Template",
-  "canonical": "http://fhir.ch/ig/template",
+  "canonical": "http://hcisolutions.ch/ig/template",
   "base": "fhir.base.template",
   "dependencies": {
     "fhir.base.template": "current"
