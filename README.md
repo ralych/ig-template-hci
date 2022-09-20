@@ -1,4 +1,4 @@
-# HCI ig template for IG Publisher
+# HCI ig template for IG Publisher 
 this is a very basic fhir implementation guide template based on from the
 [fhir.base.template](https://github.com/HL7/ig-template-base) for the [IG Publisher](https://wiki.hl7.org/IG_Publisher_Documentation)
 
