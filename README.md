@@ -14,6 +14,5 @@ template = <file-path-to-this-template>
 
 * Provide [packages-list.json](https://wiki.hl7.org/index.php?title=FHIR_IG_PackageList_doco) in input/pagecontent directory
 
-
 ## Note on HL7/FHIR Logos
 this template does not use the hl7/fhir logo, however you can include them by providing logo.html and fhirlogo.hml in input/includes directory and logos in input/pagecontent/assets/images/, check rules [zulip](https://chat.fhir.org/#narrow/stream/179294-committers.2Fannounce/topic/HL7.20Trademark.20Issues).
